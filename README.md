@@ -1,4 +1,4 @@
-#chinese wiki category keywords
+#chinese wiki category keywords#
 
 根据关键词抽取所需的语料，用于命名实体识别、关系抽取、知识图谱和智能问答系统
 
