@@ -1,0 +1,33 @@
+ NLP
+自然语言处理
+深度学习
+机器学习
+数据挖掘
+ HMM
+ CRF
+感知机
+语料
+语言模型
+神经元
+输入层
+隐藏层
+梯度下降
+反向传播
+超参数
+卷积层
+池化层
+ CNN
+ RNN
+词向量
+ word2vec
+ c-bow
+ skip-gram
+ fasttext
+ Attention
+ bert
+ lstm
+信息检索
+知识图谱
+爬虫
+ neo4j
+ elasticsearch
