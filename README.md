@@ -7,6 +7,7 @@
 语料文件：[wiki下载](https://dumps.wikimedia.org/zhwiki/)
 
 =======================================================
+
 * pip install opencc-python-reimplemented
 * Refer:https://github.com/mattzheng/ChineseWiki
 
